@@ -1,0 +1,4 @@
+ipykernel>=6
+jupyterlab==4.0.9
+jupyterlab-link-share~=0.3.0
+jupyter-collaboration~=2.0
