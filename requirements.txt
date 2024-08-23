@@ -1,4 +1,4 @@
 ipykernel>=6
-jupyterlab==3.2.9
+jupyterlab
 jupyterlab-link-share
 xeus-python
