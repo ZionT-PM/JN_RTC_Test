@@ -1,2 +1,4 @@
 jupyterlab
 jupyterlab-link-share
+jupyter lab --generate-config
+jupyter lab password
